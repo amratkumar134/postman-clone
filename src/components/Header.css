@@ -1,0 +1,17 @@
+.logo {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #232f3e; 
+  color: #ffffff; 
+}
+.postman-logo {
+  width: 60px; 
+  height: auto; 
+  margin-right: 10px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0; }

@@ -1,0 +1,20 @@
+
+.dropdown{
+    width: 150px;
+    height: 40px;
+}
+.text-field{
+    width:100%;
+    background: #f6f6f6;
+}
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    margin-left: 5px !important;
+}
